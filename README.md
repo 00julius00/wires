@@ -1,4 +1,4 @@
-# wires
+
 # 💫 About Me:
 ⚡ EEE undergrad | Embedded Systems & PCB Design enthusiast<br>🔧 Building with ESP32, KiCad & bare-metal C/C++<br>🛠️ Open to freelance: firmware dev, PCB layout, IoT prototypes<br>📌 Currently building: FreeRTOS-powered ESP32 projects & PCB designs<br>📬 Open to collabs, freelance gigs & internships in embedded/IoT
 
